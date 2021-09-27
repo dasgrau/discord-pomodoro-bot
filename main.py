@@ -1,6 +1,6 @@
 import discord
 import time
-TOKEN = 'ODkxOTkxMzMzNDU0MDk0Mzg3.YVGZqg.upWeClBhERZvXV3_L5odeh4kg5s'
+TOKEN = '' #tokenhere
 client = discord.Client()
 @client.event
 async def on_ready():
